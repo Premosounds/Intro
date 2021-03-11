@@ -1,0 +1,16 @@
+F:\SDGI\intro\bin\Debug\net5.0\intro.exe
+F:\SDGI\intro\bin\Debug\net5.0\intro.deps.json
+F:\SDGI\intro\bin\Debug\net5.0\intro.runtimeconfig.json
+F:\SDGI\intro\bin\Debug\net5.0\intro.runtimeconfig.dev.json
+F:\SDGI\intro\bin\Debug\net5.0\intro.dll
+F:\SDGI\intro\bin\Debug\net5.0\ref\intro.dll
+F:\SDGI\intro\bin\Debug\net5.0\intro.pdb
+F:\SDGI\intro\obj\Debug\net5.0\intro.csprojAssemblyReference.cache
+F:\SDGI\intro\obj\Debug\net5.0\intro.GeneratedMSBuildEditorConfig.editorconfig
+F:\SDGI\intro\obj\Debug\net5.0\intro.AssemblyInfoInputs.cache
+F:\SDGI\intro\obj\Debug\net5.0\intro.AssemblyInfo.cs
+F:\SDGI\intro\obj\Debug\net5.0\intro.csproj.CoreCompileInputs.cache
+F:\SDGI\intro\obj\Debug\net5.0\intro.dll
+F:\SDGI\intro\obj\Debug\net5.0\ref\intro.dll
+F:\SDGI\intro\obj\Debug\net5.0\intro.pdb
+F:\SDGI\intro\obj\Debug\net5.0\intro.genruntimeconfig.cache
